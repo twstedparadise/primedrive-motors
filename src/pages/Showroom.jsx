@@ -58,7 +58,7 @@ const Showroom = () => {
           <h1 className="text-4xl font-bold text-white mb-2">
             {car.brand} {car.model}
           </h1>
-          <p className="text-gray-400">3D Interactive Showroom</p>
+          <p className="text-gray-400">Virtual Showroom</p>
         </motion.div>
 
         {/* 3D Viewer */}
@@ -68,7 +68,7 @@ const Showroom = () => {
           transition={{ delay: 0.2 }}
           className="mb-8"
         >
-          <ThreeDViewer modelPath={car.model3d} carName={`${car.brand} ${car.model}`} />
+          <ThreeDViewer modelPath={car.model3d} carName={`${car.brand} ${car.model}`} images={car.gallery} />
         </motion.div>
 
         {/* Action Buttons */}

@@ -1,5 +1,7 @@
 import { brands, fuelTypes } from '../data/cars'
 
+const MAX_PRICE = 200000
+
 const FilterSidebar = ({ filters, onFilterChange }) => {
   const handleBrandChange = (brand) => {
     const newBrands = filters.brands.includes(brand)
@@ -16,11 +18,11 @@ const FilterSidebar = ({ filters, onFilterChange }) => {
   }
 
   const handlePriceChange = (e) => {
-    onFilterChange({ ...filters, maxPrice: parseInt(e.target.value) || 0 })
+    onFilterChange({ ...filters, maxPrice: parseInt(e.target.value) })
   }
 
   const clearFilters = () => {
-    onFilterChange({ brands: [], fuelTypes: [], maxPrice: 0 })
+    onFilterChange({ brands: [], fuelTypes: [], maxPrice: MAX_PRICE })
   }
 
   return (
@@ -76,7 +78,7 @@ const FilterSidebar = ({ filters, onFilterChange }) => {
         <h4 className="text-gray-300 font-medium mb-3">Max Price</h4>
         <input
           type="range"
-          min="0"
+          min="20000"
           max="200000"
           step="5000"
           value={filters.maxPrice}
@@ -84,9 +86,9 @@ const FilterSidebar = ({ filters, onFilterChange }) => {
           className="w-full h-2 bg-dark-border rounded-lg appearance-none cursor-pointer accent-accent-blue"
         />
         <div className="flex justify-between mt-2">
-          <span className="text-gray-400 text-sm">$0</span>
+          <span className="text-gray-400 text-sm">$20k</span>
           <span className="text-accent-blue text-sm font-semibold">
-            ${filters.maxPrice.toLocaleString()}
+            {filters.maxPrice >= MAX_PRICE ? 'Any price' : `$${filters.maxPrice.toLocaleString()}`}
           </span>
         </div>
       </div>

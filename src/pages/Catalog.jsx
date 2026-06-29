@@ -5,10 +5,11 @@ import CarCard from '../components/CarCard'
 import FilterSidebar from '../components/FilterSidebar'
 
 const Catalog = () => {
+  const MAX_PRICE = 200000
   const [filters, setFilters] = useState({
     brands: [],
     fuelTypes: [],
-    maxPrice: 0,
+    maxPrice: MAX_PRICE,
   })
   const [searchTerm, setSearchTerm] = useState('')
   const [sortBy, setSortBy] = useState('price-asc')
@@ -17,7 +18,7 @@ const Catalog = () => {
     let filtered = cars.filter((car) => {
       const matchesBrand = filters.brands.length === 0 || filters.brands.includes(car.brand)
       const matchesFuelType = filters.fuelTypes.length === 0 || filters.fuelTypes.includes(car.fuelType)
-      const matchesPrice = filters.maxPrice === 0 || car.price <= filters.maxPrice
+      const matchesPrice = car.price <= filters.maxPrice
       const matchesSearch = searchTerm === '' || 
         car.brand.toLowerCase().includes(searchTerm.toLowerCase()) ||
         car.model.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -110,7 +111,7 @@ const Catalog = () => {
                 </svg>
                 <p className="text-gray-400 text-lg">No vehicles match your criteria</p>
                 <button
-                  onClick={() => setFilters({ brands: [], fuelTypes: [], maxPrice: 0 })}
+                  onClick={() => setFilters({ brands: [], fuelTypes: [], maxPrice: MAX_PRICE })}
                   className="mt-4 text-accent-blue hover:text-accent-blue/80"
                 >
                   Clear filters
