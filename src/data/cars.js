@@ -14,12 +14,12 @@ export const cars = [
     topSpeed: 112,
     seats: 5,
     color: 'Celestial Silver Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1623869675781-80aa31012a5a?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,Corolla,2024,car',
     gallery: [
-      'https://images.unsplash.com/photo-1623869675781-80aa31012a5a?w=800',
-      'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800',
-      'https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800',
-      'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,Corolla,sedan',
+      'https://source.unsplash.com/800x500/?Toyota,Corolla,interior',
+      'https://source.unsplash.com/800x500/?Toyota,Corolla,hybrid',
+      'https://source.unsplash.com/800x500/?Toyota,Corolla,side'
     ],
     model3d: null,
     description: 'The 2024 Toyota Corolla Hybrid offers exceptional fuel efficiency and reliability in a compact sedan package. With up to 52 MPG combined, it\'s perfect for daily commuting.',
@@ -39,12 +39,12 @@ export const cars = [
     topSpeed: 125,
     seats: 5,
     color: 'Wind Chill Pearl',
-    thumbnail: 'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,Camry,2024,car',
     gallery: [
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,Camry,sedan',
+      'https://source.unsplash.com/800x500/?Toyota,Camry,interior',
+      'https://source.unsplash.com/800x500/?Toyota,Camry,hybrid',
+      'https://source.unsplash.com/800x500/?Toyota,Camry,side'
     ],
     model3d: null,
     description: 'The 2024 Camry Hybrid delivers a perfect blend of performance, comfort, and efficiency. With 51 MPG combined and a bold new design, it redefines the midsize sedan.',
@@ -64,12 +64,12 @@ export const cars = [
     topSpeed: 112,
     seats: 5,
     color: 'Ice Edge',
-    thumbnail: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,RAV4,2024,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800',
-      'https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800',
-      'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800',
-      'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,RAV4,SUV',
+      'https://source.unsplash.com/800x500/?Toyota,RAV4,interior',
+      'https://source.unsplash.com/800x500/?Toyota,RAV4,hybrid',
+      'https://source.unsplash.com/800x500/?Toyota,RAV4,offroad'
     ],
     model3d: null,
     description: 'The 2024 RAV4 Hybrid combines SUV versatility with hybrid efficiency. Standard AWD and 41 MPG combined make it the best-selling hybrid SUV in the US.',
@@ -89,12 +89,12 @@ export const cars = [
     topSpeed: 112,
     seats: 7,
     color: 'Wind Chill Pearl',
-    thumbnail: 'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,LandCruiser,2024,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800',
-      'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800',
-      'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800',
-      'https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,LandCruiser,offroad',
+      'https://source.unsplash.com/800x500/?Toyota,LandCruiser,interior',
+      'https://source.unsplash.com/800x500/?Toyota,LandCruiser,side',
+      'https://source.unsplash.com/800x500/?Toyota,LandCruiser,front'
     ],
     model3d: null,
     description: 'The legendary Land Cruiser returns for 2024 with a new twin-turbo hybrid powertrain. Kinetic Dynamic Suspension and three locking differentials make it unstoppable off-road.',
@@ -114,12 +114,12 @@ export const cars = [
     topSpeed: 155,
     seats: 2,
     color: 'Nitro Yellow',
-    thumbnail: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,Supra,2024,sports',
     gallery: [
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,Supra,coupe',
+      'https://source.unsplash.com/800x500/?Toyota,Supra,interior',
+      'https://source.unsplash.com/800x500/?Toyota,Supra,rear',
+      'https://source.unsplash.com/800x500/?Toyota,Supra,track'
     ],
     model3d: null,
     description: 'The 2024 GR Supra packs 382hp from its BMW-sourced 3.0L inline-6 into a rear-wheel-drive coupe chassis. 0-60 in 3.9 seconds.',
@@ -139,15 +139,15 @@ export const cars = [
     topSpeed: 112,
     seats: 5,
     color: 'Voodoo Blue',
-    thumbnail: 'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,Tacoma,2024,truck',
     gallery: [
-      'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800',
-      'https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800',
-      'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800',
-      'https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,Tacoma,pickup',
+      'https://source.unsplash.com/800x500/?Toyota,Tacoma,interior',
+      'https://source.unsplash.com/800x500/?Toyota,Tacoma,offroad',
+      'https://source.unsplash.com/800x500/?Toyota,Tacoma,side'
     ],
     model3d: null,
-    description: 'Completely redesigned for 2024, the Tacoma gains a new 2.4L turbo engine and an available hybrid powertrain. America\'s best-selling midsize truck is better than ever.',
+    description: 'Completely redesigned for 2024, the Tacoma gains a new 2.4L turbo engine. America\'s best-selling midsize truck is better than ever.',
     features: ['Multi-Terrain Select', 'Crawl Control', 'Locking Rear Differential', 'Bed Power Outlet', 'Trail Hunting Mode']
   },
   {
@@ -164,15 +164,15 @@ export const cars = [
     topSpeed: 112,
     seats: 5,
     color: 'Supersonic Red',
-    thumbnail: 'https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,Prius,2024,hybrid',
     gallery: [
-      'https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800',
-      'https://images.unsplash.com/photo-1623869675781-80aa31012a5a?w=800',
-      'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800',
-      'https://images.unsplash.com/photo-1552519507-da3b142c6e3d?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,Prius,hybrid,car',
+      'https://source.unsplash.com/800x500/?Toyota,Prius,interior',
+      'https://source.unsplash.com/800x500/?Toyota,Prius,side',
+      'https://source.unsplash.com/800x500/?Toyota,Prius,front'
     ],
     model3d: null,
-    description: 'The all-new 2024 Prius is shockingly stylish. With up to 57 MPG and available AWD-e, it\'s the most fuel-efficient car in its class — and finally looks the part.',
+    description: 'The all-new 2024 Prius is shockingly stylish. With up to 57 MPG and available AWD-e, it\'s the most fuel-efficient car in its class.',
     features: ['57 MPG Combined', 'Toyota Safety Sense 3.0', 'Solar Charging Roof (Prime)', 'Wireless Charging', 'Heated Front Seats']
   },
   {
@@ -189,12 +189,12 @@ export const cars = [
     topSpeed: 140,
     seats: 4,
     color: 'Trueno Blue',
-    thumbnail: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Toyota,GR86,sports,car',
     gallery: [
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Toyota,GR86,coupe',
+      'https://source.unsplash.com/800x500/?Toyota,GR86,interior',
+      'https://source.unsplash.com/800x500/?Toyota,GR86,rear',
+      'https://source.unsplash.com/800x500/?Toyota,GR86,track'
     ],
     model3d: null,
     description: 'The 2024 GR86 is the purist\'s sports car. Naturally aspirated, rear-wheel drive, lightweight — a 6-speed manual makes every drive an event.',
@@ -216,12 +216,12 @@ export const cars = [
     topSpeed: 155,
     seats: 5,
     color: 'Alpine White',
-    thumbnail: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?BMW,3series,2024,sedan',
     gallery: [
-      'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
-      'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
-      'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
-      'https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800'
+      'https://source.unsplash.com/800x500/?BMW,3series,sedan',
+      'https://source.unsplash.com/800x500/?BMW,3series,interior',
+      'https://source.unsplash.com/800x500/?BMW,3series,side',
+      'https://source.unsplash.com/800x500/?BMW,3series,front'
     ],
     model3d: null,
     description: 'The 2024 BMW 3 Series remains the benchmark sports sedan. 255hp, rear-wheel drive standard, and the sharpest steering in its class.',
@@ -241,15 +241,15 @@ export const cars = [
     topSpeed: 155,
     seats: 5,
     color: 'Carbon Black Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?BMW,5series,2024,sedan',
     gallery: [
-      'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
-      'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
-      'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
-      'https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800'
+      'https://source.unsplash.com/800x500/?BMW,5series,sedan',
+      'https://source.unsplash.com/800x500/?BMW,5series,interior',
+      'https://source.unsplash.com/800x500/?BMW,5series,side',
+      'https://source.unsplash.com/800x500/?BMW,5series,front'
     ],
     model3d: null,
-    description: 'The all-new 2024 BMW 5 Series is bigger, smarter, and more powerful. The i5 xDrive40 delivers 375hp with available full-electric range.',
+    description: 'The all-new 2024 BMW 5 Series is bigger, smarter, and more powerful. 375hp with available full-electric i5 variant.',
     features: ['Curved Display', 'Executive Package', 'Ambient Lighting', 'Massage Seats', 'Remote Software Upgrade']
   },
   {
@@ -266,15 +266,15 @@ export const cars = [
     topSpeed: 130,
     seats: 7,
     color: 'Phytonic Blue Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?BMW,X5,2024,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
-      'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
-      'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
-      'https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800'
+      'https://source.unsplash.com/800x500/?BMW,X5,SUV',
+      'https://source.unsplash.com/800x500/?BMW,X5,interior',
+      'https://source.unsplash.com/800x500/?BMW,X5,side',
+      'https://source.unsplash.com/800x500/?BMW,X5,front'
     ],
     model3d: null,
-    description: 'The 2024 BMW X5 xDrive40i delivers 375hp from its inline-6 and seats up to 7. Air suspension and xDrive AWD make it equally at home on road or trail.',
+    description: 'The 2024 BMW X5 xDrive40i delivers 375hp and seats up to 7. Air suspension and xDrive AWD make it equally at home on road or trail.',
     features: ['xDrive AWD', 'Air Suspension', 'Panoramic Sky Lounge', 'Bowers & Wilkins Audio', 'Driving Assistant Professional']
   },
   {
@@ -291,15 +291,15 @@ export const cars = [
     topSpeed: 180,
     seats: 4,
     color: 'Isle of Man Green',
-    thumbnail: 'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?BMW,M4,2024,sports',
     gallery: [
-      'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
-      'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
-      'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
-      'https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800'
+      'https://source.unsplash.com/800x500/?BMW,M4,coupe',
+      'https://source.unsplash.com/800x500/?BMW,M4,interior',
+      'https://source.unsplash.com/800x500/?BMW,M4,rear',
+      'https://source.unsplash.com/800x500/?BMW,M4,track'
     ],
     model3d: null,
-    description: 'The 2024 BMW M4 Competition puts 503hp to the rear wheels. 0-60 in 3.4 seconds with the optional M xDrive — electronically limited to 180 mph.',
+    description: 'The 2024 BMW M4 Competition puts 503hp to the rear wheels. 0-60 in 3.4 seconds, electronically limited to 180 mph.',
     features: ['M xDrive AWD', 'Carbon Fiber Roof', 'M Sport Exhaust', 'Adaptive M Suspension', 'M Carbon Bucket Seats']
   },
   {
@@ -316,12 +316,12 @@ export const cars = [
     topSpeed: 155,
     seats: 5,
     color: 'Frozen Black Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?BMW,7series,2024,luxury',
     gallery: [
-      'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
-      'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
-      'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
-      'https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800'
+      'https://source.unsplash.com/800x500/?BMW,7series,sedan',
+      'https://source.unsplash.com/800x500/?BMW,7series,interior',
+      'https://source.unsplash.com/800x500/?BMW,7series,rear',
+      'https://source.unsplash.com/800x500/?BMW,7series,front'
     ],
     model3d: null,
     description: 'The 2024 BMW 7 Series 760i xDrive is powered by a 536hp V8. The 31.3-inch Theatre Screen in the rear makes it the most technologically advanced BMW ever.',
@@ -341,15 +341,15 @@ export const cars = [
     topSpeed: 140,
     seats: 5,
     color: 'Portimao Blue Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?BMW,i4,electric,2024',
     gallery: [
-      'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
-      'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
-      'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
-      'https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800'
+      'https://source.unsplash.com/800x500/?BMW,i4,electric',
+      'https://source.unsplash.com/800x500/?BMW,i4,interior',
+      'https://source.unsplash.com/800x500/?BMW,i4,side',
+      'https://source.unsplash.com/800x500/?BMW,i4,front'
     ],
     model3d: null,
-    description: 'The 2024 BMW i4 M50 is the M car that happens to be electric. 536hp, 0-60 in 3.7s, 227-mile EPA range, and that classic Gran Coupe silhouette.',
+    description: 'The 2024 BMW i4 M50 is the M car that happens to be electric. 536hp, 0-60 in 3.7s, 227-mile EPA range.',
     features: ['271-mile EPA Range', 'DC Fast Charging 205kW', 'Curved Display', 'Hans Zimmer Sound', 'Adaptive M Suspension']
   },
   {
@@ -366,15 +366,15 @@ export const cars = [
     topSpeed: 177,
     seats: 4,
     color: 'Zandvoort Blue',
-    thumbnail: 'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?BMW,M2,2024,sports',
     gallery: [
-      'https://images.unsplash.com/photo-1617531653332-bd46c24f2068?w=800',
-      'https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800',
-      'https://images.unsplash.com/photo-1606152421811-aa611a7559b7?w=800',
-      'https://images.unsplash.com/photo-1556189250-72ba954cfc2b?w=800'
+      'https://source.unsplash.com/800x500/?BMW,M2,coupe',
+      'https://source.unsplash.com/800x500/?BMW,M2,interior',
+      'https://source.unsplash.com/800x500/?BMW,M2,rear',
+      'https://source.unsplash.com/800x500/?BMW,M2,track'
     ],
     model3d: null,
-    description: 'The 2024 BMW M2 is the last pure M car — rear-wheel drive only, available 6-speed manual, 453hp S58 engine. Built for drivers who want nothing filtered out.',
+    description: 'The 2024 BMW M2 is the last pure M car — rear-wheel drive only, available 6-speed manual, 453hp. Built for drivers who want nothing filtered out.',
     features: ['M Carbon Roof', 'M Sport Exhaust', 'Adaptive M Chassis', 'M Sport Seats', 'Active M Differential']
   },
 
@@ -393,15 +393,15 @@ export const cars = [
     topSpeed: 155,
     seats: 5,
     color: 'Polar White',
-    thumbnail: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Mercedes,C-Class,2024,sedan',
     gallery: [
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Mercedes,CClass,sedan',
+      'https://source.unsplash.com/800x500/?Mercedes,CClass,interior',
+      'https://source.unsplash.com/800x500/?Mercedes,CClass,side',
+      'https://source.unsplash.com/800x500/?Mercedes,CClass,front'
     ],
     model3d: null,
-    description: 'The 2024 C-Class brings S-Class design cues down the range. A 9.5-inch portrait touchscreen runs MBUX, and the 48V mild-hybrid system improves efficiency.',
+    description: 'The 2024 C-Class brings S-Class design cues down the range. A 9.5-inch portrait touchscreen runs MBUX, with 48V mild-hybrid for improved efficiency.',
     features: ['MBUX Infotainment', 'Burmester Audio', 'Wireless Charging', '64-Color Ambient Light', 'Active Brake Assist']
   },
   {
@@ -418,15 +418,15 @@ export const cars = [
     topSpeed: 155,
     seats: 5,
     color: 'Obsidian Black Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Mercedes,E-Class,2024,sedan',
     gallery: [
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Mercedes,EClass,sedan',
+      'https://source.unsplash.com/800x500/?Mercedes,EClass,interior',
+      'https://source.unsplash.com/800x500/?Mercedes,EClass,side',
+      'https://source.unsplash.com/800x500/?Mercedes,EClass,front'
     ],
     model3d: null,
-    description: 'The all-new 2024 E-Class features three screens across the dashboard and AI-powered driver assistance. The 48V mild-hybrid system delivers seamless power.',
+    description: 'The all-new 2024 E-Class features three screens across the dashboard and AI-powered driver assistance. The 48V mild-hybrid delivers seamless power.',
     features: ['Triple-Screen Dashboard', 'AI-Assisted Navigation', 'Digital Light Headlights', 'E-ACTIVE BODY CONTROL', 'MBUX Virtual Assistant']
   },
   {
@@ -443,12 +443,12 @@ export const cars = [
     topSpeed: 155,
     seats: 5,
     color: 'Selenite Grey Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Mercedes,S-Class,2024,luxury',
     gallery: [
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Mercedes,SClass,luxury',
+      'https://source.unsplash.com/800x500/?Mercedes,SClass,interior',
+      'https://source.unsplash.com/800x500/?Mercedes,SClass,rear',
+      'https://source.unsplash.com/800x500/?Mercedes,SClass,front'
     ],
     model3d: null,
     description: 'The 2024 S-Class S500 is the definitive luxury sedan. E-ACTIVE BODY CONTROL reads the road ahead with cameras to pre-load suspension before corners.',
@@ -468,15 +468,15 @@ export const cars = [
     topSpeed: 130,
     seats: 5,
     color: 'Brilliant Blue Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Mercedes,GLC,2024,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800',
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800'
+      'https://source.unsplash.com/800x500/?Mercedes,GLC,SUV',
+      'https://source.unsplash.com/800x500/?Mercedes,GLC,interior',
+      'https://source.unsplash.com/800x500/?Mercedes,GLC,side',
+      'https://source.unsplash.com/800x500/?Mercedes,GLC,front'
     ],
     model3d: null,
-    description: 'The 2024 GLC 300 4MATIC features a new 48V mild-hybrid powertrain and a completely redesigned interior with a portrait touchscreen inherited from the S-Class.',
+    description: 'The 2024 GLC 300 4MATIC features a new 48V mild-hybrid powertrain and a portrait touchscreen inherited from the S-Class.',
     features: ['4MATIC AWD', 'MBUX Portrait Touchscreen', 'Burmester Audio', 'Panoramic Roof', 'Air Body Control']
   },
   {
@@ -492,16 +492,16 @@ export const cars = [
     horsepower: 630,
     topSpeed: 196,
     seats: 4,
-    color: 'designo Selenite Grey Magno',
-    thumbnail: 'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
+    color: 'Selenite Grey Magno',
+    thumbnail: 'https://source.unsplash.com/800x500/?Mercedes,AMG,GT,sports',
     gallery: [
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Mercedes,AMG,coupe',
+      'https://source.unsplash.com/800x500/?Mercedes,AMG,interior',
+      'https://source.unsplash.com/800x500/?Mercedes,AMG,rear',
+      'https://source.unsplash.com/800x500/?Mercedes,AMG,track'
     ],
     model3d: null,
-    description: 'The 2024 AMG GT 63 4-Door Coupe puts 630hp through all four wheels. 0-60 in 3.1 seconds — this is the AMG that does everything.',
+    description: 'The 2024 AMG GT 63 4-Door Coupe puts 630hp through all four wheels. 0-60 in 3.1 seconds.',
     features: ['AMG RIDE CONTROL+ Air Suspension', 'AMG Performance Exhaust', 'AMG Track Pace App', 'AMG Carbon Fiber Package', 'Rear-Axle Steering']
   },
   {
@@ -517,13 +517,13 @@ export const cars = [
     horsepower: 577,
     topSpeed: 137,
     seats: 5,
-    color: 'G Manufaktur Brilliant Blue',
-    thumbnail: 'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800',
+    color: 'Brilliant Blue Manufaktur',
+    thumbnail: 'https://source.unsplash.com/800x500/?Mercedes,G-Class,AMG,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800',
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800'
+      'https://source.unsplash.com/800x500/?Mercedes,GClass,SUV',
+      'https://source.unsplash.com/800x500/?Mercedes,GClass,interior',
+      'https://source.unsplash.com/800x500/?Mercedes,GClass,offroad',
+      'https://source.unsplash.com/800x500/?Mercedes,GClass,front'
     ],
     model3d: null,
     description: 'The 2024 G 63 AMG is an icon with 577hp. Three locking differentials and low-range gearing coexist with Nappa leather and a Burmester sound system.',
@@ -543,12 +543,12 @@ export const cars = [
     topSpeed: 130,
     seats: 5,
     color: 'High-Tech Silver Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Mercedes,EQS,electric,2024',
     gallery: [
-      'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1621007947382-bb3c3994e3fb?w=800',
-      'https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=800'
+      'https://source.unsplash.com/800x500/?Mercedes,EQS,electric',
+      'https://source.unsplash.com/800x500/?Mercedes,EQS,interior',
+      'https://source.unsplash.com/800x500/?Mercedes,EQS,side',
+      'https://source.unsplash.com/800x500/?Mercedes,EQS,front'
     ],
     model3d: null,
     description: 'The 2024 EQS 450+ delivers 350 miles of EPA-rated range and the Hyperscreen — a 56-inch curved glass display spanning the entire dashboard.',
@@ -570,15 +570,15 @@ export const cars = [
     topSpeed: 155,
     seats: 4,
     color: 'Velocity Blue',
-    thumbnail: 'https://images.unsplash.com/photo-1584345604476-8ec5f82d718c?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Ford,Mustang,2024,sports',
     gallery: [
-      'https://images.unsplash.com/photo-1584345604476-8ec5f82d718c?w=800',
-      'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800',
-      'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800'
+      'https://source.unsplash.com/800x500/?Ford,Mustang,coupe',
+      'https://source.unsplash.com/800x500/?Ford,Mustang,interior',
+      'https://source.unsplash.com/800x500/?Ford,Mustang,rear',
+      'https://source.unsplash.com/800x500/?Ford,Mustang,track'
     ],
     model3d: null,
-    description: 'The 7th-generation 2024 Mustang GT packs 480hp from its 5.0L Coyote V8. Active Valve Exhaust and MagneRide suspension come standard on the GT Premium.',
+    description: 'The 7th-generation 2024 Mustang GT packs 480hp from its 5.0L Coyote V8. Active Valve Exhaust and MagneRide suspension standard on GT Premium.',
     features: ['5.0L Coyote V8', 'MagneRide 4.0 Suspension', 'Brembo Brakes', 'Active Valve Exhaust', '12.4-inch Digital Cluster']
   },
   {
@@ -595,12 +595,12 @@ export const cars = [
     topSpeed: 107,
     seats: 6,
     color: 'Agate Black Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Ford,F150,2024,truck',
     gallery: [
-      'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
-      'https://images.unsplash.com/photo-1584345604476-8ec5f82d718c?w=800',
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800',
-      'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800'
+      'https://source.unsplash.com/800x500/?Ford,F150,pickup',
+      'https://source.unsplash.com/800x500/?Ford,F150,interior',
+      'https://source.unsplash.com/800x500/?Ford,F150,side',
+      'https://source.unsplash.com/800x500/?Ford,F150,front'
     ],
     model3d: null,
     description: 'America\'s best-selling truck for 47 years straight. The 2024 F-150 offers best-in-class max towing of 13,500 lbs and the available Pro Power Onboard generator.',
@@ -620,15 +620,15 @@ export const cars = [
     topSpeed: 100,
     seats: 5,
     color: 'Area 51',
-    thumbnail: 'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Ford,Bronco,2024,offroad',
     gallery: [
-      'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800',
-      'https://images.unsplash.com/photo-1584345604476-8ec5f82d718c?w=800',
-      'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800'
+      'https://source.unsplash.com/800x500/?Ford,Bronco,SUV',
+      'https://source.unsplash.com/800x500/?Ford,Bronco,interior',
+      'https://source.unsplash.com/800x500/?Ford,Bronco,offroad',
+      'https://source.unsplash.com/800x500/?Ford,Bronco,front'
     ],
     model3d: null,
-    description: 'The 2024 Ford Bronco is built wild. Removable doors and roof, a 7-speed manual with a crawler gear, and the Sasquatch package adds 35-inch tires and locking diffs.',
+    description: 'The 2024 Ford Bronco is built wild. Removable doors and roof, a 7-speed manual with crawler gear, and the Sasquatch package adds 35-inch tires.',
     features: ['G.O.A.T. Modes', 'Sasquatch Package Available', 'Removable Doors & Roof', 'Front & Rear Locking Differentials', 'Trail Turn Assist']
   },
   {
@@ -645,15 +645,15 @@ export const cars = [
     topSpeed: 120,
     seats: 7,
     color: 'Carbonized Gray Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Ford,Explorer,2024,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800',
-      'https://images.unsplash.com/photo-1584345604476-8ec5f82d718c?w=800',
-      'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
-      'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800'
+      'https://source.unsplash.com/800x500/?Ford,Explorer,SUV',
+      'https://source.unsplash.com/800x500/?Ford,Explorer,interior',
+      'https://source.unsplash.com/800x500/?Ford,Explorer,side',
+      'https://source.unsplash.com/800x500/?Ford,Explorer,front'
     ],
     model3d: null,
-    description: 'The 2024 Ford Explorer seats 7 and tows up to 5,600 lbs. Standard Ford Co-Pilot360 and available Terrain Management System with seven selectable modes.',
+    description: 'The 2024 Ford Explorer seats 7 and tows up to 5,600 lbs. Standard Ford Co-Pilot360 and available Terrain Management System.',
     features: ['7-Seat Capacity', 'Ford Co-Pilot360', 'Intelligent 4WD', 'Panoramic Vista Roof', 'Wireless Charging']
   },
   {
@@ -670,15 +670,15 @@ export const cars = [
     topSpeed: 111,
     seats: 5,
     color: 'Grabber Blue Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Ford,MachE,electric,2024',
     gallery: [
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800',
-      'https://images.unsplash.com/photo-1584345604476-8ec5f82d718c?w=800',
-      'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
-      'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800'
+      'https://source.unsplash.com/800x500/?Ford,MachE,electric',
+      'https://source.unsplash.com/800x500/?Ford,MachE,interior',
+      'https://source.unsplash.com/800x500/?Ford,MachE,side',
+      'https://source.unsplash.com/800x500/?Ford,MachE,front'
     ],
     model3d: null,
-    description: 'The 2024 Mustang Mach-E Standard Range delivers 266hp and up to 247 miles of EPA range. The 15.5-inch touchscreen and SYNC 4A come standard.',
+    description: 'The 2024 Mustang Mach-E delivers 266hp and up to 247 miles of EPA range. The 15.5-inch touchscreen and SYNC 4A come standard.',
     features: ['247-mile EPA Range', '15.5-inch Touchscreen', 'Ford Co-Pilot360', 'One-Pedal Drive', 'DC Fast Charging 150kW']
   },
   {
@@ -695,12 +695,12 @@ export const cars = [
     topSpeed: 112,
     seats: 5,
     color: 'Cactus Gray',
-    thumbnail: 'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Ford,Ranger,2024,truck',
     gallery: [
-      'https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=800',
-      'https://images.unsplash.com/photo-1584345604476-8ec5f82d718c?w=800',
-      'https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800',
-      'https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800'
+      'https://source.unsplash.com/800x500/?Ford,Ranger,pickup',
+      'https://source.unsplash.com/800x500/?Ford,Ranger,interior',
+      'https://source.unsplash.com/800x500/?Ford,Ranger,offroad',
+      'https://source.unsplash.com/800x500/?Ford,Ranger,front'
     ],
     model3d: null,
     description: 'Completely redesigned for 2024, the Ranger grows up with a bigger cabin, 270hp EcoBoost engine, and Trail Control. Tows up to 7,500 lbs.',
@@ -722,15 +722,15 @@ export const cars = [
     topSpeed: 140,
     seats: 5,
     color: 'Pearl White Multi-Coat',
-    thumbnail: 'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Tesla,Model3,2024,electric',
     gallery: [
-      'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
-      'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
-      'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800'
+      'https://source.unsplash.com/800x500/?Tesla,Model3,sedan',
+      'https://source.unsplash.com/800x500/?Tesla,Model3,interior',
+      'https://source.unsplash.com/800x500/?Tesla,Model3,side',
+      'https://source.unsplash.com/800x500/?Tesla,Model3,front'
     ],
     model3d: null,
-    description: 'The refreshed 2024 Model 3 Highland features a new exterior, redesigned interior with ambient lighting, and 333 miles of EPA range in the Long Range AWD variant.',
+    description: 'The refreshed 2024 Model 3 features a new exterior, redesigned interior with ambient lighting, and 272 miles of EPA range.',
     features: ['Autopilot', '272-mile EPA Range', '15.4-inch Touchscreen', 'Over-the-Air Updates', 'Supercharger Network Access']
   },
   {
@@ -747,12 +747,12 @@ export const cars = [
     topSpeed: 145,
     seats: 5,
     color: 'Stealth Grey',
-    thumbnail: 'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Tesla,Model3,LongRange,electric',
     gallery: [
-      'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
-      'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
-      'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800'
+      'https://source.unsplash.com/800x500/?Tesla,Model3,AWD',
+      'https://source.unsplash.com/800x500/?Tesla,Model3,interior',
+      'https://source.unsplash.com/800x500/?Tesla,Model3,rear',
+      'https://source.unsplash.com/800x500/?Tesla,Model3,charging'
     ],
     model3d: null,
     description: 'The 2024 Model 3 Long Range AWD delivers 341 miles of EPA range and 0-60 in 4.2 seconds. Dual motors give confidence in any weather.',
@@ -772,12 +772,12 @@ export const cars = [
     topSpeed: 135,
     seats: 7,
     color: 'Midnight Silver Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Tesla,ModelY,2024,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800',
-      'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
-      'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800'
+      'https://source.unsplash.com/800x500/?Tesla,ModelY,SUV',
+      'https://source.unsplash.com/800x500/?Tesla,ModelY,interior',
+      'https://source.unsplash.com/800x500/?Tesla,ModelY,side',
+      'https://source.unsplash.com/800x500/?Tesla,ModelY,front'
     ],
     model3d: null,
     description: 'The world\'s best-selling EV. The 2024 Model Y Long Range delivers 330 miles of EPA range and optional 3rd-row seating for 7 passengers.',
@@ -797,15 +797,15 @@ export const cars = [
     topSpeed: 155,
     seats: 5,
     color: 'Deep Blue Metallic',
-    thumbnail: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Tesla,ModelS,2024,electric',
     gallery: [
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
-      'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
-      'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800'
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,sedan',
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,interior',
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,side',
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,front'
     ],
     model3d: null,
-    description: 'The 2024 Model S delivers 405 miles of EPA range — the longest of any EV — and 0-60 in 3.1 seconds. The 17-inch cinematic display is the largest in any car.',
+    description: 'The 2024 Model S delivers 405 miles of EPA range and 0-60 in 3.1 seconds. The 17-inch cinematic display is the largest in any car.',
     features: ['Autopilot', '405-mile EPA Range', '17-inch Cinematic Display', 'Dual Motor AWD', 'Yoke or Round Steering']
   },
   {
@@ -822,12 +822,12 @@ export const cars = [
     topSpeed: 200,
     seats: 5,
     color: 'Ultra Red',
-    thumbnail: 'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Tesla,ModelS,Plaid,performance',
     gallery: [
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
-      'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
-      'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800'
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,performance',
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,Plaid,interior',
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,rear',
+      'https://source.unsplash.com/800x500/?Tesla,ModelS,track'
     ],
     model3d: null,
     description: 'The 2024 Model S Plaid has 1,020hp from three motors and hits 60 mph in 1.99 seconds. The fastest production sedan ever built.',
@@ -847,12 +847,12 @@ export const cars = [
     topSpeed: 155,
     seats: 6,
     color: 'Solid Black',
-    thumbnail: 'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Tesla,ModelX,2024,SUV',
     gallery: [
-      'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800',
-      'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
-      'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800'
+      'https://source.unsplash.com/800x500/?Tesla,ModelX,SUV',
+      'https://source.unsplash.com/800x500/?Tesla,ModelX,interior',
+      'https://source.unsplash.com/800x500/?Tesla,ModelX,falcon,doors',
+      'https://source.unsplash.com/800x500/?Tesla,ModelX,front'
     ],
     model3d: null,
     description: 'The 2024 Model X has Falcon Wing rear doors, 348 miles of EPA range, and seating for 6 or 7. The largest touchscreen of any SUV at 17 inches.',
@@ -872,21 +872,19 @@ export const cars = [
     topSpeed: 112,
     seats: 5,
     color: 'Stainless Steel',
-    thumbnail: 'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
+    thumbnail: 'https://source.unsplash.com/800x500/?Tesla,Cybertruck,2024,electric',
     gallery: [
-      'https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800',
-      'https://images.unsplash.com/photo-1617788138017-80ad40651399?w=800',
-      'https://images.unsplash.com/photo-1536700503339-1e4b06520771?w=800',
-      'https://images.unsplash.com/photo-1566008885218-90abf9200ddb?w=800'
+      'https://source.unsplash.com/800x500/?Tesla,Cybertruck,truck',
+      'https://source.unsplash.com/800x500/?Tesla,Cybertruck,interior',
+      'https://source.unsplash.com/800x500/?Tesla,Cybertruck,side',
+      'https://source.unsplash.com/800x500/?Tesla,Cybertruck,front'
     ],
     model3d: null,
-    description: 'The 2024 Cybertruck AWD delivers 340 miles of EPA range and tows up to 11,000 lbs. The cold-rolled stainless steel exoskeleton is bulletproof to 9mm handgun fire.',
+    description: 'The 2024 Cybertruck AWD delivers 340 miles of EPA range and tows up to 11,000 lbs. The cold-rolled stainless steel exoskeleton is bulletproof to 9mm.',
     features: ['Autopilot', '340-mile EPA Range', 'Stainless Exoskeleton', '11,000 lb Tow Capacity', 'Adaptive Air Suspension']
   }
 ]
 
 export const brands = ['Toyota', 'BMW', 'Mercedes-Benz', 'Ford', 'Tesla']
-
 export const fuelTypes = ['Gasoline', 'Hybrid', 'Electric']
-
 export const bodyTypes = ['Sedan', 'SUV', 'Truck', 'Coupe', 'Sports Car', 'Hatchback']
